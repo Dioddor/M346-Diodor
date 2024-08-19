@@ -1,4 +1,4 @@
-# M346-Diodor
+## Screenshots:
 
 
 ### Logische Prozessoren:
@@ -18,7 +18,16 @@
 
 ### RAM für VM aufgeteilt (weniger):
 
+![alt text](image-1.png)
 
 
-### RAM für VM aufgeteilt (mehr):
+### RAM für VM aufgeteilt (mehr "128gb"):
 
+![alt text](image.png)
+
+
+## Erklärung:
+
+Man kann nicht mehr Logische Prozessoren für die VM aufteilen, weil man nur die anzahl an Logischen Prozessoren brauchen kann die man verbaut hat. 
+
+Man kann nicht mehr RAM zuteilen als man Speicher frei hat. Ich hatte nicht mehr speicher als 128gb frei und daher bekam ich die fehlermeldung des Host-Systems.
